@@ -43,7 +43,7 @@ Beyond all that, here are a few random tips to start conversations with stranger
 2. Use something you have in common. If they're strangers, then use something visible on their person ("oh wow is that a ___ shirt?") or something in your current environment ("Does the line always get this long?"). If they brush you off, don't force it, don't try again, just move on.
 3. Don't monologue. Most people like to talk, let them. If they're talking a lot chances are they're really enjoying the conversation. Or maybe you got a fact wrong and they're correcting you. Either way they're engaged!
 4. Don't aggressively steer conversations to your special interests. If they're interested, they'll bite. If they steer the conversation away, they don't want to hear about Sonic the Hedgehog.
-5. Continuation of #3, try to build off shared emotions. Like you both absolutely bombing an exam.
+5. Continuation of #2, try to build off shared emotions. Like you both absolutely bombing an exam.
 6. Don't try to awkwardly join discussions between friends. If you're a gregarious enough person you might be able to pull it off but let's be honest, you're a Purdue CS student.
 
 Here's how to turn people you're chatting with into friends
