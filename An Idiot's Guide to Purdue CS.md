@@ -19,6 +19,8 @@ There are some people out there who can genuinely do everything (except get an A
 
 You only have so much energy in the day. If you try to get a 4.0 and join a club and have personal projects and do hackathons and do research and become a TA and do all the things that everyone keeps telling you to do you'll fail at multiple, hate yourself, hate life, and probably end up worse off. You have a limited amount of time and energy with which to do academic stuff. The solution isn't to do more, it's to make what you're already doing do more for you.
 
+I'm going to present a list of things that helped me, things that I think students spend too little time on relative to their benefits, but ideally you should be able to spot these kinds of things on your own. Generally these opportunities are non-obvious and seem counterintuitive. You're in college, you should be focusing on academics, but it's probably better to spend three hours emailing professors for summer research opportunities, or spend some time cleaning up your resume, even if that comes at the cost of academic performance.
+
 Don't do more, do better.
 ## This Is It. This Is All There Is.
 "I'd like to have a girlfriend but I just don't see how I'd be able to spend any time with her" - Anonymous friend with a 4.0 GPA.
@@ -128,14 +130,92 @@ Do not mindlessly re-read notes except as a quick refresher before an exam. If y
 I'm biased, obviously, but we do occasionally know what we're talking about. If you're stuck on something you could spend three hours figuring it out. Or you could show up to an office hour (or another lab session), ask a TA, and watch them solve it in five minutes.
 
 Please at least attempt to solve it beforehand. Try to add a bunch of print statements and give the TAs information about what you've tried and what hasn't worked, too. It'll help us fix your issue far faster than if you just plop a computer down in front of us and go "it doesn't work". TAs become absolutely essential in CS250 and CS252 (what a coincidence... the classes I TA). 
+### Academic Dishonesty
+Cheating is difficult to catch (if done well) and incredibly rewarding in the short term. Cheating could be the best use of your time, it could potentially serve your goals. But most often cheating is done out of desperation and poor time management. Sloppy cheating is never the best use of your time, it is never optimal. It's more a signal that you've got too much on your plate, or that you lack time management skills. Every semester we tell people in CS-180 that they'll get caught if they copy-paste someone else's work. Every semester a horde of idiots does just that.
 
+When talking about the risks of cheating, most obviously you could get caught. Purdue will not mess around, and you probably can't BS them once they're on to you. I know people who run academic integrity for the courses you'll probably be taking. It's difficult to tell who's using ChatGPT, but we've had decades of experience catching students who copy paste. If you do cheat, there's an automatic 0 on the assignment (duh). You're also likely to get your overall letter grade lowered (eg if you would have gotten an A now you get a B+ or a B) and could end up with your cheating recorded by the Office of the Dean of Students.
+
+Another risk is that you don't learn class content. That's not too fine if it's some random class you're taking to meet an arbitrary graduation requirement. That's absolutely not fine if you're taking any of the following classes:
+1. CS-180
+2. CS-182
+3. CS-240
+4. CS-250
+5. CS-251 if you plan on doing anything related to algorithms (eg CS-381)
+6. CS-252 if you plan on doing anything related to systems (eg CS-354)
+7. Calc 1 and Calc 2
+
+Failing to understand the concepts presented in these classes will directly impact your performance in later classes. Even within a single class, failing to understand prerequisite material can result in you needing to cheat later on to maintain your performance. Professors can stay silent while they build an academic dishonesty case against you, and prolific enough cheating can incur serious penalties up to and including expulsion. If you have a history of cheating in Calc-1 and then attempt to cheat your way through Calc-2 and get caught you'll either have to risk further penalty by continuing to cheat or teach yourself all the concepts you missed in Calc-1 so you can complete the course authentically.
+
+Never, ever cheat in CS-180. Not only do you run the risk of getting a permenant mark on your record for cheating in the easiest CS class in your easiest semester, but you run the risk of never learning core skills that you'll use for the rest of your degree (and career). If you cheat once or twice that is a strong sign that you struggle with time management, motivation, or some other core capability that almost guarantees your failure unless you fix it before classes get harder. CS-180 is a course that teaches you how to program by making you do lots of programming, it may feel fairly easy and full of repetition but the repetition will increase your speed, decrease the quantity of bugs you produce, and make the entire rest of college easier. Not to mention your first semester is crucial to building good habits that'll stick with you for the rest of college. That's assuming you don't get caught and still pass CS-180 too, which is not guaranteed if you cheat.
+
+If you're seriously considering frequent cheating in CS-180 I'd advise dropping out or changing majors. The only scenario in which I could see that kind of cheating in CS-180 being a good idea is if those options weren't available to you (unsafe home environment and parents who would only pay for a CS degree, for example). Other than that, cheating is CS-180 is monumentally stupid. Not only are you cheating in a class that teaches core competencies, but you're likely too ignorant to understand what kind of information it's okay to skip out on learning and what's absolutely critical.
+
+In general I'd say it's okay to:
+1. Check answers with friends
+2. Describe and clarify the requirements of a problem (eg clarifying a bad handout or something)
+3. Describe how you solved a problem in English
+4. Solve a problem/algorithm in English together, then go off and write your own code.
+
+You start getting into cheating territory when you:
+1. Edit someone else's code directly.
+2. Tell someone the exact code you used.
+3. Copy paste. Don't copy paste. You'll get caught, and it's stupid. Don't.
+### Build Genuine Understanding (If You Want To)
+You don't need to learn everything in every class at college. Most of the classes are pretty useful, that communications class is probably going to be pretty valuable in your future. But often times random gen-eds and high level classes in areas that don't interest you are going to be chock full of stuff you really don't care about. In those courses, your goal should be to get a good grade with minimal effort.
+
+Now it's worth clarifying that you are human, and your judgement is flawed. You could catastrophically misjudge a course, decide that some topic is BS before realizing it's going to keep cropping up over and over again (cough concurrency cough), or fail to understand how a course might not help your academic understanding of computer science, but could be pretty useful in a job or your personal life. So min-maxxing for grades is a tool that should be used sparingly, and never on CS courses. But you can strategically dial back your effort into a course, even a CS course, that's not your focus in order to put more time into things that are.
+
+However in the online gen-ed you're only taking for the credits? You should put in enough effort to get an A and no more, not unless that effort will help you achieve any of your goals. People reading this might be in the habit of thinking of themselves as hard working, studious people. Meaning they're unlikely to skip class or cram for exams. But it can absolutely be a good decision to skip classes and cram for exams. I've taken a handful of courses where I've gotten an A or A+ without ever going to class, did all the homework in the first week of the semester, and crammed the night before an exam.
+
+The key is to decide what you want out of a course. In some cases that can only be the grade, for instance if you were taking classes for a language requirement but weren't interested in learning another language. In most CS classes that's going to be some mixture of grades and understanding. In the classes that pertain to the field you're most passionate about the scale will tilt much more towards genuine understanding.
+
+If you want to understand the topics in a course:
+1. Follow along with it as it's taught, don't learn the concepts before the exam.
+2. Attend class.
+3. Review what you learned in class afterwards.
+4. Review frequently, even if only for a small amount of time.
+5. Rephrase the knowledge, try to distill key concepts, write out everything you know about the subject, talk about it to your friends.
+
+If you want to get a good grade in a course (with minimal time investment):
+1. Skip classes if you can learn on your own faster.
+2. Do as much homework as early as possible in the semester so it's out of the way.
+3. Ignore class content until you get near an exam, then cram for the exam.
+4. Put minimal effort into homework and assignments.
+
+This comes with the caveat that this is risky. Until you're used to college it's not worth it to skip every class and learn content right before the exam. In fact, for many people that might be a totally invalid strategy. Additionally, like I said, our judgement is flawed. Especially when we're new to college. Early on attempting extreme time saving measures can hurt your grades or prevent you from learning things you really should've learned.
+
+I'd recommend starting slow, dial back the effort in courses you don't need to much understanding in. If you're still getting good grades and doing well on exams feel free to dial back the effort even more. This comes with the inherent risk of a dark horse final coming out of nowhere and being far more difficult than the rest of the course. But running the risk of getting a B in a course you don't really care about can be worthwhile if it means getting an A in a course you do care about, or if you're doing more valuable things with your time. Understand that this comes with a risk, and should be done **carefully**, **slowly** and ideally _very little or not at all in your first semester_.
+
+In STAT-511, a statistics course that I was required to take, I didn't care too much about the class. The concepts were easy enough to review on their own, most I'd already learned in AP Stats. I'd show up to class (attendance was required), put my earbuds in, and do other work. I'd zoom through the homeworks looking to complete them with minimal effort, then right before the exam I studied a ton. I got a 100%. Then I did the exact same thing for the final, which ended up being almost an entirely different format to the first exam and my overall grade got knocked down to a B+. If I'd had a better understanding of the course I could've gotten an A. But the time I saved in blitzing through this course, along with all the other ones that I'd gotten As in, was worth it for me. But this strategy is also uniquely well suited to me, I'm very good at teaching myself. It might be (probably is) terribly suited for you. Be very very careful when using it, never use it in a class you can't easily retake.
+### White Whales
+White Whales are classes the term I have for classes in which it is incredibly difficult to get an A, but comparatively easy to recieve a B or a C. Perfectionists will tank their mental health and put all their other grades at risk in order to achieve an A in a White Whale. This is an especially bad idea if the course is one they're not well suited for, isn't particularly useful for their future, or is irrelevant to their goals.
+
+If you think it's achievable, then feel free to hunt that White Whale. But remember that your effort should be used in the most efficient manner possible. If your mental health is destroyed, you couldn't dedicate any time to your friends, job search, hobbies, or personal projects, and you run the risk of your grades slipping in other classes, that A really isn't worth it. I naturally tunnel vision, and I'm a bit of a perfectionist (when it comes to courses I care about). Sometimes that motivation can be great. But other times it makes me ignore things that would be better uses of my time in favor of chasing an A that's going to have an insignificant impact on my GPA.
+
+It's also worth noting that you could be dumping a lot of effort into a strategy that's just not working. What might at first seem to be a white whale could be an easy A once you learn how to study for it. I took a history course that graded us off of in class essays. I could easily get Bs on the essays, but it was a struggle to get As. I studied and memorized a huge amount, and my grades climbed into the B+ range. But I was putting more effort into this history class than most of my CS classes. Then I figured out (stole) a better studying method, writing practice essays. Suddenly, with less effort, I was getting As.
 ## The Job Hunt
 While academics tends to dominate the minds of students, the hunt for internships (and jobs) is equally as important. Not so much your freshman year (though you should turn up to a few career fairs to get used to it) but sophomore year and your internships can matter as much as (or more than) your grades.
 
 Despite this, students tend to massively under-invest in finding an internship. This makes it comparatively easy to stand out in this regard as compared to something like, say, standing out in terms of GPA. Additionally, all of this stuff tends to be really low investment. Nobody's going to care if you decide that you can't show up at a career fair, or don't have time to tune your resume.
-#### Career Fairs
-Low quitting cost, unbelievably high return. A few hours at a career fair can save you dozens attempting to apply online. Go to booths that have people who are actively interviewing people, not just advertising. If they have IPADs, take resumes, or have some software component where you register your attendance at the career fair those are the most valuable booths. If not, there's a chance you'll just be told to apply online and nothing you said to the recruiter will do anything to impact your chances.
+
+If you were willing to get Bs in a few hard classes instead of As (or Cs instead of Bs) it might lower your GPA by 0.1 or 0.2. But if you dedicate the massive amount of time you save to aggressively hunting for jobs or summer opportunities you're almost guaranteed to come out on top.
+
+In your freshman year spend time asking people at career fairs what they look for on resumes, getting advice from upperclassmen and professors (though keep in mind that professors have been out of the market for a while), and make use of the many Purdue resources to help you get a job. Practice mock interviews, learn STAR questions, and it'll be easy to stand out. Most students put far, far too little effort into their internship hunt.
+### Career Fairs
+A few hours at a career fair can save you dozens attempting to apply online. Go to booths that have people who are actively interviewing people, not just advertising. If they have IPADs, take resumes, or have some software component where you register your attendance at the career fair those are the most valuable booths. If not, there's a chance you'll just be told to apply online and nothing you said to the recruiter will do anything to impact your chances.
 
 Do research beforehand, create a list of companies you want to talk to. Prioritize those that seem to be doing interviews (as mentioned), google them in-depth while you're in line. Come off as curious, open to learn, but knowledgable. Don't try to outsmart the recruiter, be friendly, emphasize passion, experience, and anything unique that helps you stand out.
-#### Resume
-Low investment. Go to resume workshops, have people review it. For a few hours of investment you can see massive improvements in the kinds of positions you've got access to and how successful you are at applying. 
+### Resume
+Go to resume workshops, have people review it. For a few hours of investment you can see massive improvements in the kinds of positions you've got access to and how successful you are at applying. I don't know how to write a good resume, but other people do, you should seek their feedback constantly.
+### Applying Online
+Cover letters should be short, if you write them at all. They should be of the format "Hey, I'm __ from Purdue University, I think my skills in X and Y and my personal project Z would make me a good fit for this position." Don't use ChatGPT, don't glaze the company, just explain why you're a good fit for that position.
+
+Apply early, apply to far more companies than you think you should. Aim for over 100 applications. Start applying almost as soon as school starts. This is less relevant in your freshman year. If you want a freshman internship, consider having rich parents with valauble industry connections.
+### Do Your Own Research
+Figure out what things have a disproportionate reward to effort ratio and do them. As I mentioned, practice interviews and STAR questions, go to career fairs, get your resume checked. But keep an eye out for opportunities similar to these, ask upperclassmen what they think is most valuable to do, always keep your head up.
+
+When you're too busy you become task saturated. You can't keep an eye out for new opportunities that might be a better use of your time, because you're ultra-focused on completing the stuff you've already got to get done. This is another reason why it's a good idea to cut aggressively. Sure you could complete all those classes, but in doing so you might miss out on a resume workshop, never follow up with that girl who gave you her number, or never get around to emailing professors for research opportunities. Set aside dedicated time, especially at the beginning of each semester, to hunt for opportunities.
+
+Don't limit yourself to the list, techniques, and tools on this list. Constantly evaluate what you're doing and if there's a more efficient way to achieve your goals.
+## Extracurriculars
+The quality of clubs, relevance of personal projects, and availability and benefit of things like research are going to be constantly shifting. You should 
