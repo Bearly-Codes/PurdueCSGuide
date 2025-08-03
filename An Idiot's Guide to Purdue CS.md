@@ -29,6 +29,7 @@ Do not fall into a role. Don't go to a class you learn nothing from and don't ca
 
 A role that's far, far worse than "Responsible Student" is "The Best". You were the best in high school, and now you've got to be the best in college. You try to do everything all at once, because you're in competition with everyone. You've got to constantly prove your superiority, constantly take on more responsibility, get an A+ in every class, and if you don't you'll have a nervous breakdown. Similar roles include "Gifted" or "Smart", you're doing things because they're what smart people do, not because they have any relationship at all to any of your goals. Additionally, because roles related to being smart or studious hyperfocus on GPA, they often leave people with little time to do extracurriculars, even if the GPA cost of doing an extracurricular would be worth it.
 
+Additionally, roles prevent the use of tools that would otherwise be available and useful. Accepting an F on your transcript because you know you plan on retaking a class, withdrawing from a class that is more difficult this semester than the next, these are not the actions of a Responsible Student and they're certainly not what The Best does, but for you they might be optimal. Maybe skipping class _is_ the responsible thing to do.
 
 Don't fall into a role. If you do something, do it because it'll help you achieve your goals. If an A+ won't matter to recruiters and your goal is to get a job, then an A+ should always be a pleasant surprise but never something you shoot for. Fall into a role and you're likely to spend your valuable time _extremely_ inefficiently, learn less than you otherwise could've, and miss out on a plethora of opportunities.
 ### Clarify Your Goals
@@ -37,16 +38,50 @@ My goal in college is the following
 
 It's really multiple goals wrapped into one, you'll probably have multiple, and you should write them down. Your goal should be the following:
 **Do things I will be glad to have done while in college.**
-It's up to you to define what that means. Will your future self be glad you were studious? Probably. Will they be glad that you make lifelong friendships? Probably. Will they be glad you didn't leave your room for 18 days to get an A in some random course that never mattered? Probably not. Will they be glad you went on a 3AM bender and got a DUI? Unlikely.
+It's up to you to define what that means. Will your future self be glad you were studious? Probably. Will they be glad that you make lifelong friendships? Probably. Will they be glad you didn't leave your room for 18 days to get an A in some random course that never mattered? Probably not. Will they be glad you went on a 3AM bender and got a DUI? Unlikely. This is also where the toxicity of roles come into play. In 20 years are you going to be glad that you ruthlessly attempted to "beat" everyone else at college and prove you were the smartest guy in the room? Probably not. People on their deathbead don't say "gee I wish I'd styled on some more college students by bragging about my GPA".
 
-Once you've set your goals, break them down into instrumental goals. Want a good job? Your goals might involve getting a good grade, building a good resume, and getting to a few career fairs. Instrumental goals are intended to help you work towrads your terminal goals (the big ones we defined above), they are good servants but bad masters. Falling into a role involves letting an instrumental goal (I think a good GPA would help me get a good job) take over your life (not preparing for an interview and studying instead). Check that your instrumental goals are still serving your terminal goals. If your instrumental goals are no longer relevant, discard them immediately, regardless of how much time you've invested in them.
+Once you've set your goals, break them down into instrumental goals. Want a good job? Your goals might involve getting good grades, building a good resume, and getting to a few career fairs. Instrumental goals are intended to help you work towrads your terminal goals (the big ones we defined above), they are good servants but bad masters. Falling into a role involves letting an instrumental goal (I think a good GPA would help me get a good job) take over your life (not preparing for an interview and studying instead). Check that your instrumental goals are still serving your terminal goals. If your instrumental goals are no longer relevant, discard them immediately, regardless of how much time you've invested in them. When instrumental goals take over you start playing a role, don't fall into a role.
 
 Say your instrumental goal is finishing a personal project for your resume. You don't have much spare time for anything else, but you've been keeping your eye out for new opportunities and get offered the ability to do reseach under a professor. If you determine that this research is more valuable than your personal project you should stop the personal project and switch to doing research. The instrumental goal may have been to finish the project, but your terminal goals are better served by failing that instrumental goal. This means that, paradoxically, you'll fail quite a lot more than someone who overfocuses on their instrumental goals. But your graveyard of half complete goals is merely the absence of sunk cost. Some people do switch their instrumental goals far too quickly, but sunk cost is far more common than being overly flighty.
+### Aim Big, Cut Aggressively
+Try to do more than you think you can in any given semester. Then cut responsibility if you start getting too stressed.
+
+The key caveat here is **not to take too much responsibility for which there are high quitting costs**. That means don't accept two TA positions until you know you can handle it, because quitting a TA position incurs a fairly high cost to quit. Qutting cost comes in two forms, the immediate cost (like the cost to quit a gym membership) and lost investment (like the time you lose throwing away a puzzle you've half completed). Quitting anything with a high quitting cost means you've managed your time or planned your semester disastrously wrong.
+
+Activities with a high quitting cost are:
+1. Passing courses that are prerequisites, like those in your first 3 semesters.
+2. TA/research positions. Quit without a good excuse and you're unlikely to be invited back.
+3. Leadership obligations, same as #2.
+4. Relationships. Self Explanatory.
+5. Club obligations, such as being treasurer or whatever people do in clubs.
+6. Classes with a group-project focus. If you take them with friends, you'll lose credibility amongst those friends.
+7. Other majors, if you can't reuse the classes you took for them.
+
+Activities with a low quitting cost are:
+1. Casually attending club meetings
+2. Casual friend hangouts (movie night or something), especially if you clarify that you might have to skip a few.
+3. Gig work.
+4. Personal Projects.
+5. Classes that aren't essential to your degree plan.
+6. Taking classes early to free up space (eg taking 2 CS classes this semester instead of 1).
+7. Other majors, if you can reuse the classes you took for them.
+8. Personal fitness goals (though this one is valuable enough that you should be wary of quitting it).
+
+Be aware of the quitting costs of everything in your schedule. Feel free to massively scale up your low-cost responsibilities. Start personal projects, attend like 6 different clubs, take interesting classes for fun, try to speed up your progression through your degree (as long as you can withdraw with little/no cost if you start getting overwhelmed). Be very careful in scaling up high-cost responsibilities. Try to avoid having more high-cost responsibility than you had total responsibility last semester.
+
+You should do enough that you should have to quit things, fill your schedule with fun and useful padding that has low quitting costs. If you're not quitting things, you're not doing enough. But you should not be quitting anything with a high quitting cost. This means the ideal semester looks like you attending a bunch of clubs, trying out a few personal projects, and then quitting the ones that are least valuable. By trying out a lot of things in the beginning of the semester you'll narrow down the absolute best ways to spend your time, then you can quit what isn't valauble to you.
+
+Consider two worlds. In one you attend a single club, then keep attending it throughout the semester. In another you attend 7 clubs, realize by the second week that you don't have time for that, then cut it down to 3, then 2. You're attending the best of the seven clubs you started with, which guarantees better or equal performance to the first world. You're also attending one more club than you thought you could from the beginning of the semester.
+
+The key to this is gracefully shedding responsibility to bring yourself into balance. Your goal is not to do **as much as possible** it is to achieve your goals. Your goals are best achieved with a calm, clear mind that has sufficient rest. Don't wait to feel the negative consequences of your responsibilties. Especially do not fall into the role of The Best, because The Best never fails, The Best must succeed everything he does, and he will get an aneurism trying. Remember that it is not failure to shed responsibilities to give yourself more time to rest, to guarantee better performance on instrumental goals that are more useful. It's a key part of the process.
+
+If you're bad at quitting, then you're going to aim too low, too afraid at failing to really try. That, or you'll aim too high and tank your mental health trying to juggle everything. Imagine you've come into Purdue as The Best, and because you're The Best you show up to a club each day, take a ton of difficult classes, and refuse to shoot for anything less than an A in these classes. If you were following my advice, you'd cut some of the club stuff, withdraw from a particularly difficult class, and accept that you might not get all As. You'd end the semester with a decent GPA, good progress on your degree, and a club or two you enjoy. But you're not, you're The Best, so you're going to try to keep doing everything until you burn out so hard that you fail half your classes.
+
 # An Idiot's Guide to Touching Grass
 ## This Is It. This Is All There Is.
 "I'd like to have a girlfriend but I just don't see how I'd be able to spend any time with her" - Anonymous friend with a 4.0 GPA.
 
-It's a good idea to grind, to focus on the future, to build a better life for yourself. I'm going to spend the rest of this guide talking about how to do just that. But don't wait to start living. Your goal isn't to be the best, or to get the best job, it's to have the best life, and you're already living life. This is it. This is all there is. If you don't start living now, you might never start at all.
+It's a good idea to grind, to focus on the future, to build a better life for yourself. I'm going to spend the rest of this guide talking about how to do just that. But don't wait to start living. Your goal isn't to be the best, or to get the best job, it's to have the best life you can, and you're already living life. This is it. This is all there is. If you don't start living now, you might never start at all.
 
 Free time is not a sin, especially not if you spend it doing things you genuinely enjoy. Brainrotting on TikTok for 14 hours and skipping all your classes is a terrible idea, but forming relationships, doing fun things, feeling the touch of a member of the opposite sex (or same sex, I don't judge), aren't wastes of time if you genuinely value them. Don't put off living, don't feel guilt for living. You need balance if you're going to make it through four years here.
 
@@ -90,45 +125,9 @@ A few red flags that are fine in friends but bad in roommates:
 8. Is someone who constantly needs help or is struggling. You're likely to get wrapped up in their problems.
 
 As a coincidence, these all apply to romantic partners too.
-## The Academics
-Everyone comes into college with different goals. Some people want to make their parents happy, some people want to learn as much as possible, some people want to graduate with a decent job that'll pay the bills, and some people are hell bent on proving their superiority through dominating every intellectual task thrown at them. It's up to you to figure out what kind of person you are!
-
-I encourage you to really think about what you want out of college, ideally before you've even gone there. Write it down, make it real, tell your family and friends. It can change, and it really should change as you grow and mature, but setting these kinds of goals is important. Everything you do at college should be done to achieve this goal. Not to keep up with your peers, or to fit into the role of studious student. Just because everyone around you is doing something doesn't necessarily mean you should. It means you _probably_ should, because there is often wisdom in crowds, but if you want something different out of college, you'll probably end up doing different things in college.
-
-With that being said, this guide will be written with the following goal:
-**Have a memorable and positive college experience whilst setting yourself up for as good a job post-college as possible**
-### Aim Big, Cut Aggressively
-Before we can talk about all the stuff you should try to do, we should talk about the stuff you must do.
-
-You must, at least, do the following:
-1. Maintain your mental health to enable you to do the rest of the things on this list.
-2. Pass enough classes to graduate
-3. Obtain a job, eventually
-4. Gather enough knowledge from college that you're not immediately fired
-
-These are the critical four. If you don't achieve all of these, it doesn't really matter what else you did in college, you probably failed.
-
-But I'd encourage attempting to do a lot more. It's a good idea to aim for a second major (or a minor), multiple tracks, clubs, other things I'll mention below. But before I mention all that it's worth emphasizing that you should aim big and cut aggressively. Make a list of things you could do and sort it in order of how much you think it'll help you reach your goals, meet with other people to get their input on your list. Asking on Reddit, asking your academic administrator, or running things by an upperclassman are all great methods.
-
-Classify each thing you could do as having either a high or low quitting cost. This quitting cost is composed of two things, the immediate cost upon quitting and the invested effort you spent on the thing you quit. TAing has a high immediate cost to quit, it's not going to look good. A second major, entirely unrelated to your first, has a high invested cost to quit. It's unlikely you'll be able to use those classes for anything, and they'll represent a huge amount of wasted effort.
-
-You should estimate the workload of your coming semester. If you quit all your low quitting cost responsibilities, it should be no higher than the amount of work you did your previous semester. The highest quitting cost activities you can have are:
-1. Courses that are prerequisites, so almost all CS classes you'll be taking for the first 4 semesters.
-2. TA positions at Purdue. Quit without a good excuse and you're unlikely to find another.
-3. Leadership obligations. Same with #2, without a good reason you're unlikely to find another.
-4. Relationships. Self explanatory.
-5. Mentorship roles.
-6. Classes with a focus on group projects (CS-307). If you took it with friends (which you should) you'll lose a lot of credibility.
-
-You should have priorities, ordered by how expensive they are to quit and how valuable they are to your goals. You should start the semester with too much work, overestimate the amount of things you can do, but make sure you have a lot of stuff you can quit with no reprocussions. When anything high on the list of priorities becomes threatened (GPA, relationships) and _especially_ when any of the critical four are threatened cut, and cut aggressively.
-
-If you're in danger of failing a class for your minor, use the time you used to be dedicating to a club to study. If you're failing a core class, drop the minor. People who are only used to success tend to aim far too low and then implode when they start failing. Do not attempt to make it all work, if you're struggling it's better to cut excess responsibility (especially if there's a low cost to quitting) than to risk any of the critical four.
-
-Most often this will come in the form of accepting hits to your GPA. As are very difficult, Bs are much easier, and Cs are easier still. #3 on the critical four is helped by a good GPA, but it's a terrible idea to risk #1 or #2 in that process.  It might actually be optimal to accept a B in a class if it means having a weekend off when you really need it. Pushing through might result in you burning out hard and failing a class or suffering health complications.
-
-It's always better to gracefully cut things low on your priority list rather than attempting to do it all and failing. Because when you fail, it's anyones guess what you might fail at. You could come back after an exam and shut down, unable to motivate yourself to study for the next one. You could stay up all night working on a club project and sleep through a morning meeting. You could forget about responsibilities, ignore your partner, lose friends, or have a nervous breakdown. Better to fail (or underperform) in a controlled manner than risk the things that are most important.
+# The Academics
 ### Take Additional Classes
-These classes can be in service of a major, minor, or just helping you graduate faster. The cost of quitting is really up to you here. If you plan things right and make sure you have easy off-ramps of transitioning majors into minors or reusing half completed minors to meet other requirements you might have no quitting cost at all. 
+These classes can be in service of a major, minor, helping you graduate faster, or just 'cause they're cool. The cost of quitting is really up to you here. If you plan things right and make sure you have easy off-ramps of transitioning majors into minors or reusing half completed minors to meet other requirements you might have no quitting cost at all. 
 
 The best scenarios are ones in which you only need a few additional classes to get a major or minor. With the right CS classes, you only need one additional class to get a math minor. If you drop this class, you're not really losing much. All the other classes you took in service to your math minor are still helping you graduate. But if you take a bunch of classes for a major in Anthropology or something, then quit halfway through, it might end up being a massive waste of time.
 
