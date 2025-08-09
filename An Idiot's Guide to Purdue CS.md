@@ -11,60 +11,44 @@ Don't do more, make the things you're doing do more for you.
 
 With that being said, welcome to
 # A Comprehensive Guide to Purdue CS
+## Life Skills
 ### The Smartest Guy in the Room
 You are, statistically, not a prodigy. If you haven't yet attended Purdue then you're almost certainly overconfident in your own abilities. Put bluntly, it's not that hard to be the smartest guy in the room in high school. Many people come into Purdue expecting this trend to continue, but when you fill a lecture hall with people who are all used to being the smartest guy in the room, _most_ of them are going to be in for a rude awakening. 
 
 Sure, it's possible that you'll be able to continue being the smartest guy in the room in college. One of those guys in the aformentioned room is going to be the smartest. But the smartest guy in the room doesn't _stay_ the smartest guy in the room, not unless there's something wrong with them. They go to a room with smarter people. Elite undergraduates get PHDs, elite PHDs get hired on to elite teams of researchers. It is simply not possible to take for granted that you will be the smartest guy in the room anymore.
 
-That is okay, you need to understand that. It's really, really rough coming in to college, especially if your identity is wrapped up in being the best. You're going to encounter people smarter than anyone you've ever met, people who are terrifyingly good at what they do, and that's going to be exciting, exhillarating, amazing. But it's not exciting yet, right now it's just scary, and that's okay.
-
+That is okay, you need to understand that. It's really, really rough coming in to college, especially if your identity is wrapped up in being the best. You're going to encounter people smarter than anyone you've ever met, people who are terrifyingly good at what they do, and that's going to be exciting, exhillarating, amazing. But it's not exciting yet, right now it's just scary. You'll feel threatened, or worthless, or you'll constantly try to compete with the people around you. That's okay, you can grow past this.
 #### Stop Being the Smartest Guy in the Room
-You should have a good answer to the question "if I'm not the smartest guy in the room, who am I?"
+You should have a good answer to the question "if I'm not the smartest guy in the room, who am I?".
 
 In academic settings this can involve being proud of your passion, specialization, or knowledge about a specific subject. Being the smartest guy in the room is hard and will almost inevitably fail you as a source of self esteem and confidence. Being the guy who knows way, way too much about airplanes? Now that's something that'll stick. If you're the type of person who must derive their self worth from some form of competition or intelliectual superiority, make that worth come from your specialization, not your intelligence.
 
-Additionally, you don't have to derive self worth from these sorts of intellectual pursuits at all. You can be proud of the impact you have on the lives around you, proud of being a good son, daughter, sibling, friend, or partner. You can find worth in the brownies you've perfected over a dozen attempts, the books you've read, the good you've done.
+Additionally, you don't have to derive self worth from these sorts of intellectual pursuits at all. You can be proud of the impact you have on the lives around you, proud of being a good son, daughter, sibling, friend, or partner. You can find worth in the brownies you've perfected over a dozen attempts, the books you've read, the good you've done. Derive worth from your principles and your willingness to sacrifice for them, the way you've carried yourself through difficult situations, and the ways you've grown.
 
 You've got to find something that makes you proud to be you, and it shouldn't be something so transient and brittle as being the smartest guy in the room.
 #### The Anatomy of the Smartest Guy in The Room
 Remember that many people in CS are desperate to prove their superiority. This can range from not mentioning their embarassing failures and only holding up their successes to embellishing resume items to outright fabrication. People will copy-paste premade online projects to claim as their own, talk up the things that they've done, or make ChatGPT generate their entire LinkedIn and talk about how they endeavoured to enhance cross-team synergy with cutting edge technology to deliver real business results to customers. You're competing with a mirage, many of these people don't really exist. I've met people with stunning LinkedIns that had a profoundly negative impact on my faith in humanity when I had to work with them. Don't beat yourself up because some dude on LinkedIn seems like they're more qualified than you, they might not even exist.
 
-Not only are you unlikely to be the smartest guy in the room, but the actual smartest guy in the room (or the person who appears to be the smartest) is likely to have made life choices you cannot or should not emulate. They're often massively overspecialized into computer science, dedicating vast portions of their life to it. This will make some people happy and others immensely unhappy. Even if you _could_ compete with the computer science prodigies it's likely that you'd enjoy life more if you spent that time becoming a more well rounded person.
+Not only are you unlikely to be the smartest guy in the room, but the actual smartest guy in the room (or the person who appears to be the smartest) is likely to have made life choices you cannot or should not emulate. They're often massively overspecialized into computer science, dedicating vast portions of their life to it. This will make some people happy and others immensely unhappy. Even if you _could_ compete with the computer science prodigies it's likely that you'd enjoy life more if you spent that time becoming a more well rounded person. You didn't _fail_ to dedicate your life to computer science, you just never wanted to in the first place, and that's okay!
+### Clarify Your Goals
+As I mentioned above, your default goal should not be "become the best at computer science" unless that's truly what'll make you happy.
+
+My goal in college is the following
+**Have a memorable and positive college experience whilst setting my future self up as well as possible. Find which parts of CS I most enjoy, learn about CS, get a good job, and undergo personal growth and development.**
+
+It's really multiple goals wrapped into one, you'll probably have multiple, and you should write them down. Your goal should be a more specific version of the following:
+**Do things I will be glad to have done while in college.**
+It's up to you to define what that means. Will your future self be glad you were studious? Probably. Will they be glad that you make lifelong friendships? Probably. Will they be glad you didn't leave your room for 18 days to get an A in some random course that never mattered? Probably not. Will they be glad you went on a 3AM bender and got a DUI? Unlikely. This is also where the toxicity of roles come into play. In 20 years are you going to be glad that you ruthlessly attempted to "beat" everyone else at college and prove you were the smartest guy in the room? Probably not. People on their deathbead don't say "gee I wish I'd styled on some more college students by bragging about my GPA".
+
+Once you've set your goals, break them down into instrumental goals. Keep breaking them down until their actionable. Want a good job? Your goals might involve getting good grades, which involves getting an A in this class, which involves studying. Instrumental goals are intended to help you work towrads your terminal goals (the big ones we defined above), they are good servants but bad masters. Falling into a role involves letting an instrumental goal (I think a good GPA would help me get a good job) take over your life (not preparing for an interview and studying instead). Check that your instrumental goals are still serving your terminal goals. If your instrumental goals are no longer relevant, discard them immediately, regardless of how much time you've invested in them. When instrumental goals take over you start playing a role, don't fall into a role.
+
+Say your instrumental goal is finishing a personal project for your resume. You don't have much spare time for anything else, but you've been keeping your eye out for new opportunities and get offered the ability to do reseach under a professor. If you determine that this research is more valuable than your personal project you should stop the personal project and switch to doing research. The instrumental goal may have been to finish the project, but your terminal goals are better served by failing that instrumental goal. This means that, paradoxically, you'll fail quite a lot more than someone who overfocuses on their instrumental goals. But your graveyard of half complete goals is merely the absence of sunk cost. Some people do switch their instrumental goals far too quickly, but sunk cost is far more common than being overly flighty.
 
 
 
 
 
 
-
-
-
-
-### My Perspective
-I'm a rising senior in Purdue Computer science. I'm not a prodigy, Zuckerberg hasn't banged on my door to offer me 13 billion dollars to help him build a god and then use it to improve the Instagram reccomendation algorithm, but I've done pretty well. I've got two years of TA experience, gotten As in almost all of my CS classes, and had some success with both internship and job hunting.
-
- Quite a few student guides have issues. They tend to make the implicit assumption that the reader has the same goal as the writer, and that the environment of Purdue (or whatever college) has stayed the same. In reality, even the best written guide might have a lifetime of  
-
-
-For that reason, I'll attempt to give you the tools to plan your time well, to figure out what strategies best apply to your goals, and to integrate other people's advice into your plan. 
-
-With all that being said:
-## Don't Do More
-You've got to go to clubs, take graduate level classes, do research, take all the hardest classes, and maintain a 4.0. Don't forget personal projects, you didn't forget personal projects did you? If you don't have projects by the end of your first semester you're already behind. In fact you should've come in with AP credits, you should've tested out of CS-180. Plus you've got to do a minor, and a second major, and if you haven't done a hackathon when they talk to you at the career fair they _will shoot you, they will take you out back and they will shoot you because you're a lazy, good for nothing waste of space_.
-
-**Jesus Christ. Stop.**
-
-The imposter syndrome in computer science is real, if you're not feeling it yet read [this](https://gist.github.com/kartva/30c528420d68869dbcf376cd028fe038). Ask anyone for advice and they'll tell you to do more, do more, do more. Before long you'll feel pulled in a thousand different directions, inadequate compared to your peers, and like you've been behind since the 10th grade because your parents didn't send you to an MIT summer camp.
-
-You are, statistically, not a prodigy. That is okay, you need to understand that. It's really, really rough coming in to college, especially if your identity is wrapped up in being the best. You're going to encounter people smarter than anyone you've ever met, people who are terrifyingly good at what they do, and that's going to be exciting, exhillarating, amazing. But it's not exciting yet, right now it's just scary, and that's okay.
-
-There are some people out there who can genuinely do everything (except get an A in Hardware Security). When you ask them for advice they, like everyone else, will tell you to do more. It's easier for them than it is for you. They've walked in with four years of experience, the early classes were a breeze, they eat, sleep, and breathe this stuff. They are overspecialized into one particular field because they enjoy it (or because they're neurotic) and that works for them. But even if it's possible, most people just aren't that happy being so specialized into their area of study. 
-
-Additionally, remember that many people in CS are desperate to prove their superiority. This can range from not mentioning their embarassing failures and only holding up their successes to embellishing resume items to outright fabrication. People will copy-paste premade online projects to claim as their own, talk up the things that they've done, or make ChatGPT generate their entire LinkedIn and talk about how they endeavoured to enhance cross-team synergy with cutting edge technology to deliver real business results to customers. You're competing with a mirage, many of these people don't really exist. I've met people with stunning LinkedIns that had a profoundly negative impact on my faith in humanity when I had to work with them. Don't beat yourself up beacuse an Instagram model is hotter than you, don't beat yourself up because some dude on LinkedIn seems like they're more qualified than you.
-
-You only have so much energy in the day. If you try to get a 4.0 and join 6 clubs and have personal projects and do hackathons and do research and become a TA and do all the things that everyone keeps telling you to do you'll fail at multiple, hate yourself, hate life, and probably end up worse off. You have a limited amount of time and energy with which to do academic stuff. The advice to "just do more" falls flat on students who are already busy. Few Purdue CS students are spending their days wishing they had more to do.
-
-Don't do more, do better.
 ### Playing a Role
 As I was getting ready for my final round interview I turned to my roommate, laughed, and said "Y'know this interview will probably do more for my future than any individual class this semester". Then it sunk in. This interview was more important than any of my classes _what the hell had I been doing?_ I was walking into the interview with almost no preparation, I'd never devoted time to "studying" interview skills, I'd treated applying for internships like a hobby even though it was the single most important task of the semester.
 
@@ -86,17 +70,6 @@ Other roles include:
 7. The Robot, who unthinkingly does all work placed in front of it with no regard to it's goals.
 
 Don't fall into a role. If you do something, do it because it'll help you achieve your goals. If an A+ won't matter to recruiters and your goal is to get a job, then an A+ should always be a pleasant surprise but never something you shoot for. Fall into a role and you're likely to spend your valuable time _extremely_ inefficiently, learn less than you otherwise could've, and miss out on a plethora of opportunities.
-### Clarify Your Goals
-My goal in college is the following
-**Have a memorable and positive college experience whilst setting my future self up as well as possible. This entails finding which parts of CS I most enjoy, learning about CS, getting a good job, and undergoing personal growth and development.**
-
-It's really multiple goals wrapped into one, you'll probably have multiple, and you should write them down. Your goal should be the following:
-**Do things I will be glad to have done while in college.**
-It's up to you to define what that means. Will your future self be glad you were studious? Probably. Will they be glad that you make lifelong friendships? Probably. Will they be glad you didn't leave your room for 18 days to get an A in some random course that never mattered? Probably not. Will they be glad you went on a 3AM bender and got a DUI? Unlikely. This is also where the toxicity of roles come into play. In 20 years are you going to be glad that you ruthlessly attempted to "beat" everyone else at college and prove you were the smartest guy in the room? Probably not. People on their deathbead don't say "gee I wish I'd styled on some more college students by bragging about my GPA".
-
-Once you've set your goals, break them down into instrumental goals. Keep breaking them down until their actionable. Want a good job? Your goals might involve getting good grades, which involves getting an A in this class, which involves studying. Instrumental goals are intended to help you work towrads your terminal goals (the big ones we defined above), they are good servants but bad masters. Falling into a role involves letting an instrumental goal (I think a good GPA would help me get a good job) take over your life (not preparing for an interview and studying instead). Check that your instrumental goals are still serving your terminal goals. If your instrumental goals are no longer relevant, discard them immediately, regardless of how much time you've invested in them. When instrumental goals take over you start playing a role, don't fall into a role.
-
-Say your instrumental goal is finishing a personal project for your resume. You don't have much spare time for anything else, but you've been keeping your eye out for new opportunities and get offered the ability to do reseach under a professor. If you determine that this research is more valuable than your personal project you should stop the personal project and switch to doing research. The instrumental goal may have been to finish the project, but your terminal goals are better served by failing that instrumental goal. This means that, paradoxically, you'll fail quite a lot more than someone who overfocuses on their instrumental goals. But your graveyard of half complete goals is merely the absence of sunk cost. Some people do switch their instrumental goals far too quickly, but sunk cost is far more common than being overly flighty.
 ### Aim Big, Cut Aggressively
 Try to do more than you think you can in any given semester. This is where "do more" advice comes in handy, you should try to have as wide a spread of options as possible. Write them down, put them on a list. Pick a bunch of the best things to try then cut responsibility if (when) you start getting too stressed. 
 
