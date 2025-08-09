@@ -5,7 +5,12 @@
 ### My Perspective
 I'm a rising senior in Purdue Computer science. I'm not a prodigy, Zuckerberg hasn't banged on my door to offer me 13 billion dollars to help him build a god and then use it to improve the Instagram reccomendation algorithm, but I've done pretty well. I've got two years of TA experience, gotten As in almost all of my CS classes, and had some success with both internship and job hunting.
 
-The following is my advice to incoming freshmen (and students at every level, really). It's probably most applicable to Computer Science students who are similar to me, so don't be afraid to pick and choose the advice you follow. Some of it may work for you, some of it may not. We're all different people and the advice that guides one person to a 4.0 might send another into a mental hospital. With all that being said:
+ Quite a few student guides have issues. They tend to make the implicit assumption that the reader has the same goal as the writer, and that the environment of Purdue (or whatever college) has stayed the same. In reality, even the best written guide might have a lifetime of  
+
+
+For that reason, I'll attempt to give you the tools to plan your time well, to figure out what strategies best apply to your goals, and to integrate other people's advice into your plan. 
+
+With all that being said:
 ## Don't Do More
 You've got to go to clubs, take graduate level classes, do research, take all the hardest classes, and maintain a 4.0. Don't forget personal projects, you didn't forget personal projects did you? If you don't have projects by the end of your first semester you're already behind. In fact you should've come in with AP credits, you should've tested out of CS-180. Plus you've got to do a minor, and a second major, and if you haven't done a hackathon when they talk to you at the career fair they _will shoot you, they will take you out back and they will shoot you because you're a lazy, good for nothing waste of space_.
 
