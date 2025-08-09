@@ -1,4 +1,42 @@
-# An Idiot's Guide to Purdue CS
+## Just Do More
+You've got to go to clubs, take graduate level classes, do research, take all the hardest classes, and maintain a 4.0. Don't forget personal projects, you didn't forget personal projects did you? If you don't have projects by the end of your first semester you're already behind. In fact you should've come in with AP credits, you should've tested out of CS-180. Plus you've got to do a minor, and a second major, and if you haven't done a hackathon when they talk to you at the career fair they _will shoot you, they will take you out back and they will shoot you because you're a lazy, good for nothing waste of space_.
+
+**Jesus Christ. Stop.**
+
+The imposter syndrome in computer science is real, if you're not feeling it yet look up "Purdue CS guide" and you will. Too many guides do little more than providing overwhelmed students with more things they "should" be doing. They also often fail to provide cost/benefit analysis on potential ways of spending time, instead just assuming that the reader has infinite time to dedicate to whatever activity catches their eye. Because the guides provide few to no methods of actually _freeing_ or better managing time, most students read through a guide and are left only with the lingering anxiety that they either haven't done these things, or can't possibly find the time to get around to them.
+
+Instead this guide will attempt to focus on teaching you how to select, from your varied and overwhelming options, how best to spend your time. In this guide there will be traditional advice, things you _should_ do, but I'll do my best to keep those short and to only the most highly beneficial activities that few people put effort into. Instead my goal is that, having read this guide, you can independently seek out and integrate advice into your schedule without getting overwhelmed.
+
+Don't do more, make the things you're doing do more for you.
+
+With that being said, welcome to
+# A Comprehensive Guide to Purdue CS
+### The Smartest Guy in the Room
+You are, statistically, not a prodigy. If you haven't yet attended Purdue then you're almost certainly overconfident in your own abilities. Put bluntly, it's not that hard to be the smartest guy in the room in high school. Many people come into Purdue expecting this trend to continue, but when you fill a lecture hall with people who are all used to being the smartest guy in the room, _most_ of them are going to be in for a rude awakening. 
+
+Sure, it's possible that you'll be able to continue being the smartest guy in the room in college. One of those guys in the aformentioned room is going to be the smartest. But the smartest guy in the room doesn't _stay_ the smartest guy in the room, not unless there's something wrong with them. They go to a room with smarter people. Elite undergraduates get PHDs, elite PHDs get hired on to elite teams of researchers. It is simply not possible to take for granted that you will be the smartest guy in the room anymore.
+
+That is okay, you need to understand that. It's really, really rough coming in to college, especially if your identity is wrapped up in being the best. You're going to encounter people smarter than anyone you've ever met, people who are terrifyingly good at what they do, and that's going to be exciting, exhillarating, amazing. But it's not exciting yet, right now it's just scary, and that's okay.
+
+#### Stop Being the Smartest Guy in the Room
+You should have a good answer to the question "if I'm not the smartest guy in the room, who am I?"
+
+In academic settings this can involve being proud of your passion, specialization, or knowledge about a specific subject. Being the smartest guy in the room is hard and will almost inevitably fail you as a source of self esteem and confidence. Being the guy who knows way, way too much about airplanes? Now that's something that'll stick. If you're the type of person who must derive their self worth from some form of competition or intelliectual superiority, make that worth come from your specialization, not your intelligence.
+
+Additionally, you don't have to derive self worth from these sorts of intellectual pursuits at all. You can be proud of the impact you have on the lives around you, proud of being a good son, daughter, sibling, friend, or partner. You can find worth in the brownies you've perfected over a dozen attempts, the books you've read, the good you've done.
+
+You've got to find something that makes you proud to be you, and it shouldn't be something so transient and brittle as being the smartest guy in the room.
+#### The Anatomy of the Smartest Guy in The Room
+Remember that many people in CS are desperate to prove their superiority. This can range from not mentioning their embarassing failures and only holding up their successes to embellishing resume items to outright fabrication. People will copy-paste premade online projects to claim as their own, talk up the things that they've done, or make ChatGPT generate their entire LinkedIn and talk about how they endeavoured to enhance cross-team synergy with cutting edge technology to deliver real business results to customers. You're competing with a mirage, many of these people don't really exist. I've met people with stunning LinkedIns that had a profoundly negative impact on my faith in humanity when I had to work with them. Don't beat yourself up because some dude on LinkedIn seems like they're more qualified than you, they might not even exist.
+
+Not only are you unlikely to be the smartest guy in the room, but the actual smartest guy in the room (or the person who appears to be the smartest) is likely to have made life choices you cannot or should not emulate. They're often massively overspecialized into computer science, dedicating vast portions of their life to it. This will make some people happy and others immensely unhappy. Even if you _could_ compete with the computer science prodigies it's likely that you'd enjoy life more if you spent that time becoming a more well rounded person.
+
+
+
+
+
+
+
 
 
 
